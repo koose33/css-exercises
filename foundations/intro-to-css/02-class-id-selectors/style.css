@@ -1,4 +1,16 @@
-p {
-    color: #000000
-    background-color: #f9a0a0;
+.class-one {
+        background-color: #ffc0cb;
+        font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.class-two {
+        font-size: 24;
+}
+#id-one {
+        font-size: 36px;
+        color: #0000ff;
+}
+#id-two {
+        background-color: #90ee90;
+        font-size: 24px;
+        font-weight: bold;
 }
