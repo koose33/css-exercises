@@ -1,9 +1,11 @@
-.class-font {
-    background-color: yellow;
-    font-family: Helvetica, 'Times New Roman', "sans-serif";
+.let-height {
+    font-family: Helvetica, "Times New Roman", sans-serif;
     font-size: 28px;
 }
-
-.class-background {
+.black {
+    color: white;
     background-color: black;
+}
+.yellow {
+    background-color: yellow;
 }
